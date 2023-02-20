@@ -1,19 +1,19 @@
 Advance Python Assignment
 REQUIREMENTS
 
-Analyze movies data from IMDB. Here is the data link
-Create functions to get the results of the following:
-Group movies by genres
-Top/bottom n percentage movies according to metascore, where, ‘n’ should be a parameter passed to your function
-Top/bottom n percentage movies according to imdb user ratings
-Movies who have won an Oscar in a particular year. For example, get the year as a parameter to your function and return all the movies that won an Oscar in that year
-Analyze and return n movies with highest/lowest budget
-Which countries have highest number of movies release in n year
- Analyze if there is any relationship between the imdb user rating and number of awards received
-Return akas of a specified/all movies in specified/all regions
-Movies released on, before or after n year
-Which director has made directed most number of oscar winning movies
-Write a wrapper function to return the output in following formats:
+1. Analyze movies data from IMDB. Here is the data link
+2. Create functions to get the results of the following:
+a. Group movies by genres
+#. Top/bottom n percentage movies according to metascore, where, ‘n’ should be a parameter passed to your function
+#. Top/bottom n percentage movies according to imdb user ratings
+b. Movies who have won an Oscar in a particular year. For example, get the year as a parameter to your function and return all the movies that won an Oscar in that year
+c. Analyze and return n movies with highest/lowest budget
+d. Which countries have highest number of movies release in n year
+e. Analyze if there is any relationship between the imdb user rating and number of awards received
+f. Return akas of a specified/all movies in specified/all regions
+g. Movies released on, before or after n year
+h. Which director has made directed most number of oscar winning movies
+i. Write a wrapper function to return the output in following formats:
 PDF
 CSV
 Json
